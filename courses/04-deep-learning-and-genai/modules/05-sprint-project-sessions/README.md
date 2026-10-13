@@ -1,0 +1,17 @@
+# 🛠️ Sprint Project - Sessions
+
+5 lessons observed in platform order on 2026-10-12. This index records course metadata; independent learning evidence has not been recorded.
+
+| Order | Lesson | Source ID | Format |
+|-------|--------|-----------|--------|
+| 1 | Sprint Project Presentation | `dlga-62169895` | PDF |
+| 2 | Image Embeddings and Data Augmentation | `dlga-62263585` | PDF |
+| 3 | Text Embeddings | `dlga-62359170` | PDF |
+| 4 | Data Preprocessing and Model Training | `dlga-62462589` | PDF |
+| 5 | Training an MLP | `dlga-62546217` | PDF |
+
+Create your own `notes/`, `questions/`, and `exercises/` here as you study. Use the [lesson](../../../../templates/lesson.md) and [question](../../../../templates/question.md) templates, and cite the source ID plus a page, timestamp, or cell.
+
+Resource coverage: 5 non-quiz lesson pages inspected read-only. Linked resource bodies and download permissions remain unverified.
+
+See [the full syllabus](../../syllabus.csv) for platform status and resource-inspection coverage. Keep originals and authenticated URLs in the private library.

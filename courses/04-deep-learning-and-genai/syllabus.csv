@@ -1,0 +1,27 @@
+source_id,lesson_id,module_order,module_title,lesson_order,lesson_title,content_kind,platform_label,platform_status,resource_formats,inspection_status
+dlga-61814635,61814635,1,✨ Introduction,1,Welcome to the Deep Learning and GenAI Sprint - ML Developer Career,Text,,unknown,Text page; no linked resources observed,resource page inspected
+dlga-62006240,62006240,1,✨ Introduction,2,Motivation,PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-61872689,61872689,2,❇️ Daily Lectures - Deep Learning for Computer Vision,1,Deep Learning for Computer Vision,PDF,,not completed,PDF viewer,resource page inspected
+dlga-61872743,61872743,2,❇️ Daily Lectures - Deep Learning for Computer Vision,2,Deep Learning for Computer Vision - Theory Support Notebooks,Text,,not completed,9 Colab notebook links (7 direct Colab; 2 Google Drive),resource page inspected
+dlga-61872803,61872803,2,❇️ Daily Lectures - Deep Learning for Computer Vision,3,Deep Learning for Computer Vision - Practice Notebooks,Text,,not completed,2 direct Colab practice notebook links,resource page inspected
+dlga-61814647,61814647,3,❇️ Daily Lectures - Natural Language Processing,1,"Intro to NLP, Normalization and Vectorization",PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-61814648,61814648,3,❇️ Daily Lectures - Natural Language Processing,2,Word Embeddings,PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-61814649,61814649,3,❇️ Daily Lectures - Natural Language Processing,3,Recurrent Neural Networks & Attention,PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-61814650,61814650,3,❇️ Daily Lectures - Natural Language Processing,4,Transformers,PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-61814651,61814651,3,❇️ Daily Lectures - Natural Language Processing,5,Large Language Models (I),PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-61814652,61814652,3,❇️ Daily Lectures - Natural Language Processing,6,Large Language Models (II),PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-61814654,61814654,3,❇️ Daily Lectures - Natural Language Processing,7,Theory Support Notebooks,Text,,not completed,25 labeled notebook links (Colab/Drive); 1 unlabeled Drive link,resource page inspected
+dlga-66688175,66688175,3,❇️ Daily Lectures - Natural Language Processing,8,Learn More: Introduction to Hugging Face,Video,,not completed,Embedded video; 6 Colab-labeled Drive notebook links,resource page inspected
+dlga-66688183,66688183,3,❇️ Daily Lectures - Natural Language Processing,9,Learn more: Implementing GPT from Scratch,Video,,not completed,Embedded video; media file format unverified; Google-hosted resource link; file format unverified,resource page inspected
+dlga-61814653,61814653,3,❇️ Daily Lectures - Natural Language Processing,10,NLP Theory questions,Quiz,,not completed,Not inspected,index only
+dlga-70693649,70693649,3,❇️ Daily Lectures - Natural Language Processing,11,Retrieval Augmented Generation,PDF,,not completed,PDF; PDF viewer; PPTX,resource page inspected
+dlga-61814657,61814657,4,🛠️ Sprint Project - Download,1,Sprint Project - Multimodal e-Commerce Product Categorization,PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-61814658,61814658,4,🛠️ Sprint Project - Download,2,Project Download,Text,,not completed,Google Drive project download link; file type unverified,resource page inspected
+dlga-62169895,62169895,5,🛠️ Sprint Project - Sessions,1,Sprint Project Presentation,PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-62263585,62263585,5,🛠️ Sprint Project - Sessions,2,Image Embeddings and Data Augmentation,PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-62359170,62359170,5,🛠️ Sprint Project - Sessions,3,Text Embeddings,PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-62462589,62462589,5,🛠️ Sprint Project - Sessions,4,Data Preprocessing and Model Training,PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-62546217,62546217,5,🛠️ Sprint Project - Sessions,5,Training an MLP,PDF,,not completed,PDF; PDF viewer,resource page inspected
+dlga-61814659,61814659,6,🛠️ Sprint Project - Upload your solution,1,How to deliver your Sprint Project,Video,,not completed,Embedded video; media file format unverified,resource page inspected
+dlga-66710827,66710827,6,🛠️ Sprint Project - Upload your solution,2,Upload your solution,Text,,not completed,Text page; no linked resources observed,resource page inspected
+dlga-61814661,61814661,6,🛠️ Sprint Project - Upload your solution,3,About the Sprint: Help us with your feedback 🚀,Text,,not completed,Feedback form link/embed,resource page inspected
