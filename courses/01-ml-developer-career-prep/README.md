@@ -17,7 +17,7 @@ Verified in the authenticated platform on 2026-10-12: **4 modules and 13 lessons
 
 ## Inspection coverage
 
-All 13 sidebar entries were inventoried. 12 lesson page containers were inspected to identify their format and linked resources. Embedded videos were not played, PDF content and external notebooks were not read, and linked files were not downloaded. Assessment pages, where inspected, were viewed only as shells; no assessment was started or submitted, and no completion control was used.
+All 13 lesson shells were inspected, including read-only assessment attachment checks. Available original files and explicit supporting datasets were downloaded and verified. The [material acquisition report](../../docs/material-download-report.md) lists verified files, online-only resources, and unresolved exceptions. Notebooks have not been executed, and downloading is not evidence of completed study.
 
 ## My study record
 

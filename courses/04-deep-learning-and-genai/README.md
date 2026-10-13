@@ -19,7 +19,7 @@ The platform index was verified on 2026-10-12: **6 modules, 26 lessons, 0% platf
 
 7 text/resource pages, 15 PDF pages, 3 video lessons, and 1 quiz. Format counts describe platform routes, not learning achievements.
 
-All **25 non-quiz resource pages** were inspected read-only, alongside the complete 26-lesson sidebar index. The single quiz remains indexed without assessment interaction. Linked notebook contents and externally hosted downloads were not opened; formats that cannot be established from visible links remain unverified. Platform completion remained **0%**, with no completed lesson markers after inspection.
+All 26 lesson shells were inspected, including read-only assessment attachment checks. Available original files and explicit supporting datasets were downloaded and verified. The [material acquisition report](../../docs/material-download-report.md) lists verified files, online-only resources, and unresolved exceptions. Notebooks have not been executed, and downloading is not evidence of completed study.
 
 | Representative inspected lesson | Observed resources |
 |------------------|--------------------|
@@ -28,7 +28,7 @@ All **25 non-quiz resource pages** were inspected read-only, alongside the compl
 | Deep Learning for Computer Vision - Practice Notebooks | 2 direct Colab practice notebook links |
 | Theory Support Notebooks | 25 labeled notebook links (Colab/Drive); 1 unlabeled Drive link |
 | Learn More: Introduction to Hugging Face | Embedded video; 6 Colab-labeled Drive notebook links |
-| Project Download | Google Drive project download link; file type unverified |
+| Project Download | Google Drive project download link; file format verified in the material catalog |
 
 ## Begin studying
 

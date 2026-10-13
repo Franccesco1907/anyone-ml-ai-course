@@ -8,8 +8,8 @@
 | 2 | Learn more: DBSCAN, t-SNE and UMAP | `mlf-66687815` | Video | 1 embedded video; 2 colab notebook links |
 | 3 | Unsupervised Learning Theory Support Notebooks | `mlf-60715681` | Text | 7 colab notebook links; 5 external reference links |
 | 4 | Unsupervised Learning Practice Notebooks | `mlf-60715682` | Text | 2 colab notebook links |
-| 5 | Unsupervised Learning Theory questions | `mlf-60715683` | Quiz | Quiz not opened; no questions or answers inspected |
+| 5 | Unsupervised Learning Theory questions | `mlf-60715683` | Quiz | Assessment shell inspected for attachments; no assessment submitted |
 
 Create your own `notes/`, `questions/`, and `exercises/` here as you study. Use the [lesson](../../../../templates/lesson.md) and [question](../../../../templates/question.md) templates, and cite the source ID plus a page, timestamp, or cell.
 
-See [the full syllabus](../../syllabus.csv) for platform status and resource-inspection coverage. Resource pages were inspected without opening linked originals; quizzes were left unopened. Keep originals and authenticated URLs in the private library.
+See [the full syllabus](../../syllabus.csv) for platform status and resource-inspection coverage. All lesson shells, including assessments, were inspected read-only for resource links and attachments. Available originals and explicit supporting files were downloaded and verified; notebooks were not executed. Keep originals and authenticated URLs in the private library.

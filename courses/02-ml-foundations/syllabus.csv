@@ -1,37 +1,37 @@
 source_id,lesson_id,module_order,module_title,lesson_order,lesson_title,content_kind,platform_label,platform_status,resource_formats,inspection_status
-mlf-60715658,60715658,1,✨ Introduction,1,Welcome to the ML Foundations Sprint - ML Developer Career,Text,Text,unknown,Text page (no linked or embedded resources),resource page inspected
-mlf-60715659,60715659,1,✨ Introduction,2,Motivation,PDF,LESSON,not completed,1 pdf viewer,resource page inspected
-mlf-60715660,60715660,1,✨ Introduction,3,Sprint Program and Schedule,Text,Text,not completed,1 colab notebook link,resource page inspected
-mlf-60715668,60715668,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,1,Intro to Machine Learning,PDF,lesson,not completed,1 pdf viewer,resource page inspected
-mlf-60715669,60715669,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,2,Machine Learning Theory Support Notebooks,Text,code,not completed,4 colab notebook links; 2 youtube reference links; 4 external reference links,resource page inspected
-mlf-60715670,60715670,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,3,Machine Learning Practice Notebooks,Text,code,not completed,1 colab notebook link,resource page inspected
-mlf-60715757,60715757,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,4,Neural Networks,PDF,PDF,not completed,1 pdf viewer; 1 pdf download link,resource page inspected
-mlf-60715769,60715769,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,5,Neural Networks Theory Support Notebooks,Text,code,not completed,2 colab notebook links,resource page inspected
-mlf-60715771,60715771,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,6,Neural Networks Practice Notebooks,Text,code,not completed,2 colab notebook links,resource page inspected
-mlf-66687805,66687805,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,7,Learn more: Understanding Backpropagation,Video,Video,not completed,1 embedded video; 1 external reference link,resource page inspected
-mlf-60715671,60715671,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,8,Other Supervised Learning Models,PDF,lesson,not completed,1 pdf viewer,resource page inspected
-mlf-60715672,60715672,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,9,Supervised Learning Theory Support Notebooks,Text,code,not completed,1 google drive link (file type unverified); 3 colab notebook links,resource page inspected
-mlf-60715673,60715673,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,10,Model Evaluation Metrics,PDF,lesson,not completed,1 pdf viewer,resource page inspected
-mlf-60715674,60715674,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,11,Model Evaluation metrics Theory Support Notebooks,Text,code,not completed,3 colab notebook links; 1 external reference link; 1 youtube reference link,resource page inspected
-mlf-60715675,60715675,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,12,Model Ensemble,PDF,lesson,not completed,1 pdf viewer,resource page inspected
-mlf-60715676,60715676,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,13,Hyperparameter Optimization,PDF,LESSON,not completed,1 pdf viewer,resource page inspected
-mlf-60715677,60715677,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,14,Hyperparameter Optimization Theory Support Notebooks,Text,code,not completed,1 colab notebook link; 3 external reference links; 1 github link,resource page inspected
-mlf-60715678,60715678,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,15,"Supervised Learning, Hyperparameter Optimization and Model Ensemble Practice Notebooks",Text,code,not completed,5 colab notebook links,resource page inspected
-mlf-60715679,60715679,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,16,Supervised Learning Theory questions [Difficulty: Medium],Quiz,Quiz,not completed,Quiz not opened; no questions or answers inspected,index only
-mlf-60715680,60715680,3,❇️ Daily Lectures - Unsupervised Learning,1,Unsupervised Learning,PDF,lesson,not completed,1 pdf viewer,resource page inspected
-mlf-66687815,66687815,3,❇️ Daily Lectures - Unsupervised Learning,2,"Learn more: DBSCAN, t-SNE and UMAP",Video,Video,not completed,1 embedded video; 2 colab notebook links,resource page inspected
-mlf-60715681,60715681,3,❇️ Daily Lectures - Unsupervised Learning,3,Unsupervised Learning Theory Support Notebooks,Text,code,not completed,7 colab notebook links; 5 external reference links,resource page inspected
-mlf-60715682,60715682,3,❇️ Daily Lectures - Unsupervised Learning,4,Unsupervised Learning Practice Notebooks,Text,code,not completed,2 colab notebook links,resource page inspected
-mlf-60715683,60715683,3,❇️ Daily Lectures - Unsupervised Learning,5,Unsupervised Learning Theory questions,Quiz,Quiz,not completed,Quiz not opened; no questions or answers inspected,index only
-mlf-60715666,60715666,4,🛠️ Sprint Project - Sessions,1,Sprint Project - Download,Text,Text,not completed,1 google drive link (file type unverified),resource page inspected
-mlf-61602985,61602985,4,🛠️ Sprint Project - Sessions,2,Sprint Project Presentation,PDF,PDF,not completed,1 pdf viewer,resource page inspected
-mlf-61603123,61603123,4,🛠️ Sprint Project - Sessions,3,Implementing an MLP,PDF,PDF,not completed,1 pdf viewer,resource page inspected
-mlf-61602990,61602990,4,🛠️ Sprint Project - Sessions,4,Training a neural network,PDF,PDF,not completed,1 pdf viewer,resource page inspected
-mlf-61602996,61602996,4,🛠️ Sprint Project - Sessions,5,Hyper-parameters optimization,PDF,PDF,not completed,1 pdf viewer,resource page inspected
-mlf-61603003,61603003,4,🛠️ Sprint Project - Sessions,6,More about hyper-parameters optimization,PDF,PDF,not completed,1 pdf viewer,resource page inspected
-mlf-60715684,60715684,5,🛠️ Sprint Project - Deliver your Sprint Project,1,How to deliver your Sprint Project,Video,Video,not completed,1 embedded video,resource page inspected
-mlf-66710486,66710486,5,🛠️ Sprint Project - Deliver your Sprint Project,2,Upload your solution - Autograder,Text,CODE,not completed,1 autograder link (not submitted),resource page inspected
-mlf-60715686,60715686,5,🛠️ Sprint Project - Deliver your Sprint Project,3,About the ML Foundations Sprint: Help us with your feedback 🚀,Text,Text,not completed,1 survey embed,resource page inspected
-mlf-60719196,60719196,6,💻 Stand-up Session with your mentor,1,Code versioning with GitHub,PDF,slides,not completed,1 pdf viewer; 1 pdf download link,resource page inspected
-mlf-64130662,64130662,6,💻 Stand-up Session with your mentor,2,Download and install Git,Video,Video,not completed,1 embedded video,resource page inspected
-mlf-64130666,64130666,6,💻 Stand-up Session with your mentor,3,Create a Github account,Video,Video,not completed,1 embedded video,resource page inspected
+mlf-60715658,60715658,1,✨ Introduction,1,Welcome to the ML Foundations Sprint - ML Developer Career,Text,Text,unknown,Lesson shell inspected; no downloadable original observed,lesson page inspected
+mlf-60715659,60715659,1,✨ Introduction,2,Motivation,PDF,LESSON,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-60715660,60715660,1,✨ Introduction,3,Sprint Program and Schedule,Text,Text,not completed,"Verified local files: 1 csv, 1 ipynb",lesson page inspected
+mlf-60715668,60715668,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,1,Intro to Machine Learning,PDF,lesson,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-60715669,60715669,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,2,Machine Learning Theory Support Notebooks,Text,code,not completed,"Verified local files: 1 csv, 4 ipynb; 6 reference-only resources",lesson page inspected
+mlf-60715670,60715670,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,3,Machine Learning Practice Notebooks,Text,code,not completed,"Verified local files: 1 csv, 1 ipynb",lesson page inspected
+mlf-60715757,60715757,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,4,Neural Networks,PDF,PDF,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-60715769,60715769,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,5,Neural Networks Theory Support Notebooks,Text,code,not completed,"Verified local files: 1 csv, 2 ipynb",lesson page inspected
+mlf-60715771,60715771,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,6,Neural Networks Practice Notebooks,Text,code,not completed,"Verified local files: 1 csv, 2 ipynb",lesson page inspected
+mlf-66687805,66687805,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,7,Learn more: Understanding Backpropagation,Video,Video,not completed,1 online-only resources; 1 reference-only resources,lesson page inspected
+mlf-60715671,60715671,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,8,Other Supervised Learning Models,PDF,lesson,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-60715672,60715672,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,9,Supervised Learning Theory Support Notebooks,Text,code,not completed,"Verified local files: 2 csv, 3 ipynb",lesson page inspected
+mlf-60715673,60715673,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,10,Model Evaluation Metrics,PDF,lesson,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-60715674,60715674,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,11,Model Evaluation metrics Theory Support Notebooks,Text,code,not completed,"Verified local files: 1 csv, 3 ipynb; 2 reference-only resources",lesson page inspected
+mlf-60715675,60715675,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,12,Model Ensemble,PDF,lesson,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-60715676,60715676,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,13,Hyperparameter Optimization,PDF,LESSON,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-60715677,60715677,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,14,Hyperparameter Optimization Theory Support Notebooks,Text,code,not completed,Verified local files: 1 ipynb; 4 reference-only resources,lesson page inspected
+mlf-60715678,60715678,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,15,"Supervised Learning, Hyperparameter Optimization and Model Ensemble Practice Notebooks",Text,code,not completed,"Verified local files: 2 csv, 5 ipynb",lesson page inspected
+mlf-60715679,60715679,2,❇️ Daily Lectures - Intro to ML & Supervised Learning,16,Supervised Learning Theory questions [Difficulty: Medium],Quiz,Quiz,not completed,Lesson shell inspected; no downloadable original observed; Read-only assessment attachment check,lesson page inspected
+mlf-60715680,60715680,3,❇️ Daily Lectures - Unsupervised Learning,1,Unsupervised Learning,PDF,lesson,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-66687815,66687815,3,❇️ Daily Lectures - Unsupervised Learning,2,"Learn more: DBSCAN, t-SNE and UMAP",Video,Video,not completed,Verified local files: 2 ipynb; 1 online-only resources,lesson page inspected
+mlf-60715681,60715681,3,❇️ Daily Lectures - Unsupervised Learning,3,Unsupervised Learning Theory Support Notebooks,Text,code,not completed,"Verified local files: 2 csv, 7 ipynb; 5 reference-only resources",lesson page inspected
+mlf-60715682,60715682,3,❇️ Daily Lectures - Unsupervised Learning,4,Unsupervised Learning Practice Notebooks,Text,code,not completed,"Verified local files: 1 csv, 2 ipynb",lesson page inspected
+mlf-60715683,60715683,3,❇️ Daily Lectures - Unsupervised Learning,5,Unsupervised Learning Theory questions,Quiz,Quiz,not completed,Lesson shell inspected; no downloadable original observed; Read-only assessment attachment check,lesson page inspected
+mlf-60715666,60715666,4,🛠️ Sprint Project - Sessions,1,Sprint Project - Download,Text,Text,not completed,"Verified local files: 3 csv, 1 zip",lesson page inspected
+mlf-61602985,61602985,4,🛠️ Sprint Project - Sessions,2,Sprint Project Presentation,PDF,PDF,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-61603123,61603123,4,🛠️ Sprint Project - Sessions,3,Implementing an MLP,PDF,PDF,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-61602990,61602990,4,🛠️ Sprint Project - Sessions,4,Training a neural network,PDF,PDF,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-61602996,61602996,4,🛠️ Sprint Project - Sessions,5,Hyper-parameters optimization,PDF,PDF,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-61603003,61603003,4,🛠️ Sprint Project - Sessions,6,More about hyper-parameters optimization,PDF,PDF,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-60715684,60715684,5,🛠️ Sprint Project - Deliver your Sprint Project,1,How to deliver your Sprint Project,Video,Video,not completed,1 online-only resources,lesson page inspected
+mlf-66710486,66710486,5,🛠️ Sprint Project - Deliver your Sprint Project,2,Upload your solution - Autograder,Text,CODE,not completed,1 online-only resources,lesson page inspected
+mlf-60715686,60715686,5,🛠️ Sprint Project - Deliver your Sprint Project,3,About the ML Foundations Sprint: Help us with your feedback 🚀,Text,Text,not completed,1 online-only resources,lesson page inspected
+mlf-60719196,60719196,6,💻 Stand-up Session with your mentor,1,Code versioning with GitHub,PDF,slides,not completed,Verified local files: 1 pdf,lesson page inspected
+mlf-64130662,64130662,6,💻 Stand-up Session with your mentor,2,Download and install Git,Video,Video,not completed,1 online-only resources,lesson page inspected
+mlf-64130666,64130666,6,💻 Stand-up Session with your mentor,3,Create a Github account,Video,Video,not completed,1 online-only resources,lesson page inspected

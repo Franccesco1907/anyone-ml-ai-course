@@ -19,7 +19,7 @@ The platform index was verified on 2026-10-12: **6 modules, 36 lessons, 0% platf
 
 15 text lessons, 14 pdf lessons, 5 video lessons, 2 quiz lessons. Format counts describe platform routes, not learning achievements.
 
-All 34 non-quiz resource pages were inspected read-only. The full 36-lesson index is covered. Both quiz pages remain unopened. Linked notebook and download files and embedded PDF text were not inspected; videos were not watched as study material. Unverified file types are labeled explicitly.
+All 36 lesson shells were inspected, including read-only assessment attachment checks. Available original files and explicit supporting datasets were downloaded and verified. The [material acquisition report](../../docs/material-download-report.md) lists verified files, online-only resources, and unresolved exceptions. Notebooks have not been executed, and downloading is not evidence of completed study.
 
 The following examples show the main formats; every lesson has coverage details in the syllabus and its module README.
 
@@ -29,7 +29,7 @@ The following examples show the main formats; every lesson has coverage details 
 | Machine Learning Theory Support Notebooks | 4 Colab-labeled Drive notebook links; 2 YouTube references; 4 external references |
 | Machine Learning Practice Notebooks | 1 Colab-labeled Drive practice notebook link |
 | Learn more: Understanding Backpropagation | Embedded video; external reference |
-| Sprint Project - Download | Google Drive project download link; file type unverified |
+| Sprint Project - Download | Google Drive project download link; file format verified in the material catalog |
 | Upload your solution - Autograder | Autograder link; no submission performed |
 
 ## Begin studying

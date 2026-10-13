@@ -18,6 +18,6 @@
 
 Create your own `notes/`, `questions/`, and `exercises/` here as you study. Use the [lesson](../../../../templates/lesson.md) and [question](../../../../templates/question.md) templates, and cite the source ID plus a page, timestamp, or cell.
 
-Resource coverage: 10 non-quiz lesson pages inspected read-only; 1 quiz entry indexed without assessment interaction. Linked resource bodies and download permissions remain unverified.
+Resource coverage: 10 non-quiz lesson pages inspected read-only; 1 quiz shell inspected read-only for attachments without assessment interaction. Available originals and explicit supporting files were downloaded and verified; notebooks were not executed. Videos remain online where no download was offered.
 
 See [the full syllabus](../../syllabus.csv) for platform status and resource-inspection coverage. Keep originals and authenticated URLs in the private library.

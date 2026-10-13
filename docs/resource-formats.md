@@ -11,7 +11,7 @@ The course player combines lesson pages with embedded viewers and links to exter
 | DOCX resume template | Maintain your personal version privately. Review contact details before sharing any resume. | A portfolio description of your projects, with personal data shared deliberately. |
 | Quiz, survey, or assignment | Complete it yourself in the academy and follow its submission instructions. | A separate explanation or analogous exercise, keeping assessment answers private. |
 
-The inventory covers lesson structure and resource references. It does not establish that every linked file is accessible, licensed for redistribution, or executable. Original assets were not bulk-downloaded, videos were not watched, and notebooks were not run during inventory work.
+The inventory covers lesson structure and resource references. It does not establish that every linked file is accessible, licensed for redistribution, or executable. The subsequent [acquisition pass](material-download-report.md) downloaded and validated available originals and explicit supporting files. Streaming videos remain online where no download was offered. Notebooks were statically inspected for dependencies but were not executed.
 
 ## Prepare a focused NotebookLM workspace
 

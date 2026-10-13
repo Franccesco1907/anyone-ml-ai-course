@@ -1,8 +1,8 @@
 # Download and organize the course materials
 
-Status: **planned, not executed**. Prepared October 13, 2026.
+Status: **executed with documented exceptions**. Updated October 13, 2026. See the [acquisition report](material-download-report.md) for verified counts, unresolved resources, and backup status.
 
-The course hierarchy, page snapshots, and private lesson links are already organized. Original course assets have not been downloaded by this workflow. The existing local assignment and Airflow files predate the inventory and remain in their original locations.
+The six courses and all 133 lesson shells have been inspected. Available originals and explicit supporting datasets have been acquired into the private library; the report distinguishes verified files from online-only resources and unresolved downloads. Existing local assignment and Airflow files remain in their original locations.
 
 The goal is a verified private library of every available, permitted course asset, with each file connected to its lesson. Publish original study notes and progress in GitHub; keep the downloaded course library outside the public repository.
 
@@ -12,7 +12,7 @@ Start from the private `study-index.md` and the six verified syllabuses. Revisit
 
 Follow folder shortcuts once and track visited provider IDs to avoid loops. Existing captures already contain repeated notebook references, including the same file linked from different lessons. Treat those as duplicate candidates until source identity and downloaded bytes are checked.
 
-The 133 lessons are not 133 files: one lesson can contain many assets, and several lessons can reference the same file. The nine assessment entries with sidebar-only coverage need an attachment check where accessible, without answering or submitting anything. Record a lesson with no downloadable assets explicitly.
+The 133 lessons are not 133 files: one lesson can contain many assets, and several lessons can reference the same file. The nine assessment entries that originally had sidebar-only coverage received read-only attachment checks during execution. For future refreshes, inspect those shells without answering or submitting anything. Record a lesson with no downloadable assets explicitly.
 
 Create a private asset manifest with these fields:
 
@@ -44,18 +44,18 @@ Check that the archive can be reopened through the local index, that notebook de
 | Dataset, code, or repository | Retain required course files, attribution, and supplied dependency instructions. Record a repository revision where relevant. Register large or separately licensed data as a distinct dependency. |
 | Web lesson or external reference | Retain an allowed export or the existing private page snapshot with its source URL. Treat external references without an offline asset as `reference-only`. |
 
-Use the existing authenticated browser session for download flows that require it. Refresh expired links from their lesson rather than repeatedly retrying a stale URL. Do not store browser cookies or credentials in the manifest. Do not execute downloaded notebooks or installation scripts during acquisition.
+Use the existing authenticated browser session for download flows that require it. Refresh expired links from their lesson rather than repeatedly retrying a stale URL. Do not store browser cookies or credentials in the manifest. Do not execute downloaded notebooks or installation scripts during acquisition. Leave video pages promptly after inspecting their controls to avoid autoplay completion, and compare lesson-level completion markers before and after browsing.
 
 ## 4. Organize and deduplicate
 
-Use this proposed layout inside the existing private library; these download directories do not exist as a completed archive yet:
+The private library now uses this layout:
 
 ```text
 anyoneai-private-library/
 ├── README.md
 ├── study-index.md
 ├── inventory/                       # Existing inspection evidence
-├── assets.csv                       # Asset manifest to create
+├── assets.csv                       # Reconciled asset manifest
 ├── staging/                         # Incomplete transfers, grouped by worker
 ├── originals/
 │   └── <course-slug>/
@@ -97,16 +97,16 @@ Add local-file links beside academy links in the private study index. Keep [GitH
 
 Prepare NotebookLM sources only from materials permitted for upload. Keep conversions under `derivatives/`, retain originals, and start with the current module. NotebookLM ingestion is a separate follow-up, not a substitute for downloading and backing up the files.
 
-Choose a private backup destination with enough capacity, copy the library and manifests, and verify a sample restore plus checksum comparisons. No backup destination has been selected or configured by this plan.
+Choose a private backup destination with enough capacity, copy the library and manifests, and verify a sample restore plus checksum comparisons. Backup configuration was deferred by the user; no backup has been performed.
 
 ## Delivery checklist
 
-- [ ] Every lesson is reconciled against its individual assets or an explicit no-assets record.
-- [ ] Every downloadable asset is verified or has a visible unresolved exception and next action.
-- [ ] Duplicate references resolve to verified canonical files; revisions and derivatives remain distinguishable.
-- [ ] The private index opens local originals and retains the corresponding academy references.
-- [ ] Existing local work is preserved, and original files are separate from editable working copies.
-- [ ] Counts distinguish verified files, online-only resources, blocked assets, and failed downloads.
+- [x] Every lesson is reconciled against its individual assets or an explicit no-assets record.
+- [x] Every downloadable asset is verified or has a visible unresolved exception and next action.
+- [x] Duplicate references resolve to verified canonical files; revisions and derivatives remain distinguishable.
+- [x] The private index opens local originals and retains the corresponding academy references.
+- [x] Existing local work is preserved, and original files are separate from editable working copies.
+- [x] Counts distinguish verified files, online-only resources, blocked assets, and failed downloads.
 - [ ] Backup and restore checks are recorded before claiming the archive is backed up.
 
-The next execution step is asset enumeration and the Data Science pilot. This document creates the plan only; it does not start downloads, upload files to NotebookLM, or configure a backup.
+Acquisition results and remaining actions are recorded in the [report](material-download-report.md). NotebookLM ingestion and backup remain unconfigured. The procedure above also defines how to refresh the library when source material changes.

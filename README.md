@@ -27,10 +27,11 @@ Course and lesson titles follow the observed platform index. The [progress track
 ## Find your work
 
 - [Study plan](docs/study-plan.md): a concrete starting point and suggested sequence.
-- [Material download plan](docs/material-download-plan.md): build and verify the private offline library; downloads are not yet executed.
+- [Downloaded materials](docs/material-download-report.md): verified originals, lesson coverage, and remaining exceptions.
+- [Material download plan](docs/material-download-plan.md): the executed acquisition procedure and refresh checklist.
 - [Study workflow](docs/study-workflow.md): one repeatable loop for learning and resolving doubts.
 - [Resource formats](docs/resource-formats.md): how to use PDFs, videos, notebooks, and assessments.
-- [Inspection coverage](docs/inventory-coverage.md): what was indexed, inspected, and left unopened.
+- [Inspection coverage](docs/inventory-coverage.md): lesson inspection scope and resource acquisition evidence.
 - [Private source library and NotebookLM](docs/private-library.md): keep originals outside the public repository.
 - [Source inventory](resources/README.md): record sanitized references to material you use.
 - [Progress tracker](progress/README.md): distinguish activity from demonstrated understanding.

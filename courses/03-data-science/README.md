@@ -2,7 +2,7 @@
 
 The authenticated platform index contains **9 modules and 40 lessons**, with **26 lessons marked completed (65%)** as observed October 12, 2026. This is platform completion; independent learning evidence and understanding have not yet been recorded in this repository.
 
-The [syllabus inventory](syllabus.csv) records actual module and lesson titles, order, platform labels, content kinds, completion markers, and observed resource formats. Lesson titles retain the platform wording, including spelling. All 36 non-quiz lesson pages were inspected; the four quiz entries were inventoried from the sidebar without assessment interaction. Private course URLs and page evidence remain in the separate private library.
+The [syllabus inventory](syllabus.csv) records actual module and lesson titles, order, platform labels, content kinds, completion markers, and observed resource formats. Lesson titles retain the platform wording, including spelling. All 40 lesson shells were inspected, including read-only attachment checks for the four quiz entries. Private course URLs and page evidence remain in the separate private library.
 
 | Order | Module | Lessons | Platform completed |
 |---|---|---:|---:|
@@ -21,3 +21,7 @@ The first lesson not marked completed in platform order is **Exploratory Data An
 Further incomplete modules include Feature Engineering and Sprint Project Sessions. Follow the platform order or record why you choose a different study sequence. The local Olist ELT sprint and Airflow examples are relevant private references for modules 4 and 8; their authorship and reuse permissions remain unproven.
 
 Create `notes/`, `questions/`, and `exercises/` when you add your first original learning artifacts. Follow the [study workflow](../../docs/study-workflow.md), keep restricted source material in the [private library](../../docs/private-library.md), and update [overall progress](../../progress/README.md) after a study session. Inspection alone does not count as a study session or demonstrated mastery.
+
+## Downloaded resources
+
+Available originals and explicit supporting datasets have been acquired into the private library. Open its local `study-index.md` for lesson-by-lesson file links, or read the [acquisition report](../../docs/material-download-report.md) for verified counts and exceptions. Notebooks have not been executed.

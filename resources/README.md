@@ -24,3 +24,9 @@ python3 scripts/rebuild_source_index.py
 The script uses only Python's standard library. It does not contact the academy, download files, or change platform progress. It rebuilds the combined CSV and checks required columns and unique source IDs.
 
 Keep authenticated links, full page captures, filenames containing personal information, and original course files in the [private library](../docs/private-library.md). The public catalog contains metadata; actual reading and practice belong in your lesson notes and learning evidence.
+
+## Downloaded material catalog
+
+[materials.csv](materials.csv) records individual resource outcomes using opaque asset IDs. [material-coverage.csv](material-coverage.csv) reconciles every lesson against its verified file references. Neither table contains authenticated URLs, original filenames, private paths, or course content. `linked-to-existing` points to a checksum-identical canonical asset. Page captures are labeled separately and do not count as downloaded originals. See the [acquisition report](../docs/material-download-report.md) for totals and exceptions.
+
+Validate the public asset IDs, canonical references, privacy fields, and lesson coverage with `python3 scripts/check_material_catalog.py` from the repository root. This checks catalog consistency; private file integrity is checked separately against the local manifest.
