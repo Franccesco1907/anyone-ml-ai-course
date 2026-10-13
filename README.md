@@ -27,6 +27,7 @@ Course and lesson titles follow the observed platform index. The [progress track
 ## Find your work
 
 - [Study plan](docs/study-plan.md): a concrete starting point and suggested sequence.
+- [Material download plan](docs/material-download-plan.md): build and verify the private offline library; downloads are not yet executed.
 - [Study workflow](docs/study-workflow.md): one repeatable loop for learning and resolving doubts.
 - [Resource formats](docs/resource-formats.md): how to use PDFs, videos, notebooks, and assessments.
 - [Inspection coverage](docs/inventory-coverage.md): what was indexed, inspected, and left unopened.
