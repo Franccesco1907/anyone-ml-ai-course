@@ -1,0 +1,14 @@
+module_order,module_title,lesson_order,lesson_title,content_kind,platform_status,source_id,lesson_id,resource_formats,inspection_status
+1,✨   Introduction,1,Welcome to the ML Developer Career,text,completed,anyoneai-35897506,35897506,text,page DOM inspected; linked files not downloaded
+2,❇️ Daily Lectures - Prep Course,1,Intro to Python - Recorded Session,recorded session,completed,anyoneai-64332288,64332288,recorded session,page DOM inspected; embedded content not played or read
+2,❇️ Daily Lectures - Prep Course,2,Intro to Python - Slides,PDF,completed,anyoneai-41177893,41177893,PDF,page DOM inspected; embedded content not played or read
+2,❇️ Daily Lectures - Prep Course,3,Intro to Numpy - Recorded Session,recorded session,completed,anyoneai-64338560,64338560,recorded session,page DOM inspected; embedded content not played or read
+2,❇️ Daily Lectures - Prep Course,4,Intro to Numpy - Slides,PDF,completed,anyoneai-41177910,41177910,PDF,page DOM inspected; embedded content not played or read
+2,❇️ Daily Lectures - Prep Course,5,Probability - Recorded Session,recorded session,completed,anyoneai-64339888,64339888,recorded session,page DOM inspected; embedded content not played or read
+2,❇️ Daily Lectures - Prep Course,6,Probability - Slides,PDF,completed,anyoneai-41177865,41177865,PDF,page DOM inspected; embedded content not played or read
+2,❇️ Daily Lectures - Prep Course,7,Algebra - Recorded Session,recorded session,completed,anyoneai-64340921,64340921,recorded session,page DOM inspected; embedded content not played or read
+2,❇️ Daily Lectures - Prep Course,8,Algebra - Slides,PDF,completed,anyoneai-41178019,41178019,PDF,page DOM inspected; embedded content not played or read
+2,❇️ Daily Lectures - Prep Course,9,Theory Support Notebooks,text,completed,anyoneai-35897519,35897519,Colab notebook link; Drive resource link; text,page DOM inspected; linked files not downloaded
+3,🛠️ Assignments,1,Python and Numpy Assignments,text,completed,anyoneai-35897522,35897522,Colab notebook link; Drive resource link; text,page DOM inspected; linked files not downloaded
+3,🛠️ Assignments,2,Probability and Algebra Assignments,text,completed,anyoneai-41178658,41178658,Drive resource link; text,page DOM inspected; linked files not downloaded
+4,Quizes,1,Oriented questions for Data Structures & Algorithms (Python),quiz,completed,anyoneai-41178891,41178891,quiz,sidebar metadata only
