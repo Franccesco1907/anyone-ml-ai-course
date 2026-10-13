@@ -1,0 +1,12 @@
+module_order,module_title,lesson_order,lesson_title,content_kind,platform_status,source_id,lesson_id,resource_formats,inspection_status
+1,👋 Welcome,1,1️⃣ Introduction,text,completed,anyoneai-31726038,31726038,text,page DOM inspected; linked files not downloaded
+1,👋 Welcome,2,🐍 Why Python?,text,completed,anyoneai-31734353,31734353,text,page DOM inspected; linked files not downloaded
+1,👋 Welcome,3,🖥️ Setting up your work environment,text,completed,anyoneai-31726827,31726827,YouTube video link; text,page DOM inspected; linked files not downloaded
+1,👋 Welcome,4,👨🏻‍💻 Running your first lines of code,text,completed,anyoneai-31971347,31971347,Colab notebook link; IPYNB; text,page DOM inspected; linked files not downloaded
+2,📚 Prep Course (Optional),1,ℹ️ Training Overview,text,completed,anyoneai-32209187,32209187,Colab notebook link; IPYNB; YouTube video link; text,page DOM inspected; linked files not downloaded
+3,🧑🏻‍💻 Technical Challenge,1,🚀 Introduction,text,completed,anyoneai-32070558,32070558,text,page DOM inspected
+3,🧑🏻‍💻 Technical Challenge,2,💻 Customers and Orders,text,completed,anyoneai-32071619,32071619,CSV; Colab notebook link; GitHub resource link; IPYNB; text,page DOM inspected; linked files not downloaded
+3,🧑🏻‍💻 Technical Challenge,3,📄 Customers Quiz,survey,completed,anyoneai-32351135,32351135,survey,page DOM inspected; assessment shell only
+3,🧑🏻‍💻 Technical Challenge,4,📄 Orders Quiz,survey,completed,anyoneai-32129377,32129377,survey,sidebar metadata only
+3,🧑🏻‍💻 Technical Challenge,5,📎 Upload your Customers & Orders notebook,assignment upload,completed,anyoneai-32452231,32452231,assignment upload,page DOM inspected; assessment shell only
+3,🧑🏻‍💻 Technical Challenge,6,🙌 Thank You,text,completed,anyoneai-32132360,32132360,text,page DOM inspected
