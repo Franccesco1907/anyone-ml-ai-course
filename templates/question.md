@@ -26,7 +26,3 @@ Source ID and locator: [inventory ID; page/timestamp/cell]
 [A fresh example solved unaided; link evidence and record date. Keep open until verified.]
 
 Next action: [small experiment or follow-up question]
-
-## Tutor prompt
-
-> I am studying [topic]. My source is [source ID and locator], and my attempt is [reasoning or code]. Ask one question to identify my confusion. Explain the smallest missing step, cite the available sources, and state when evidence is missing. Give me a fresh exercise and wait for my attempt before showing a solution.
