@@ -6,10 +6,10 @@ My personal workspace for studying machine learning and AI with AnyoneAI. It hol
 
 1. Choose a course below and identify the next lesson in the platform.
 2. Copy [the session template](templates/session.md) to `sessions/YYYY-MM-DD-topic.md`.
-3. Create a lesson note or question inside the course folder using [the templates](templates/README.md).
+3. Open its module folder and create a lesson note or question using [the templates](templates/README.md).
 4. End with a small exercise completed unaided and update [progress](progress/README.md) with the result.
 
-For the first session, spend 10–15 minutes identifying one lesson, recording its source, and writing one question. Actual lesson order will come from the platform; it has not been inventoried yet.
+The six authenticated course indexes were inspected on October 12, 2026: **31 modules and 133 lessons**. Open a course below for its real module folders and ordered syllabus. Start with the [study plan](docs/study-plan.md), which follows the observed Data Science resume point.
 
 ## Courses
 
@@ -22,11 +22,14 @@ For the first session, spend 10–15 minutes identifying one lesson, recording i
 | Job Preparation Program Online Profile and Resume Optimization | [Job preparation](courses/05-job-preparation/README.md) |
 | Technical Challenge | [Technical challenge](courses/06-technical-challenge/README.md) |
 
-These course names come from the initial course list. Platform percentages describe activity; they do not establish independent understanding. No learning achievements have been recorded here yet.
+Course and lesson titles follow the observed platform index. The [progress tracker](progress/README.md) records platform completion separately from demonstrated understanding. No independent learning achievements have been recorded here yet.
 
 ## Find your work
 
+- [Study plan](docs/study-plan.md): a concrete starting point and suggested sequence.
 - [Study workflow](docs/study-workflow.md): one repeatable loop for learning and resolving doubts.
+- [Resource formats](docs/resource-formats.md): how to use PDFs, videos, notebooks, and assessments.
+- [Inspection coverage](docs/inventory-coverage.md): what was indexed, inspected, and left unopened.
 - [Private source library and NotebookLM](docs/private-library.md): keep originals outside the public repository.
 - [Source inventory](resources/README.md): record sanitized references to material you use.
 - [Progress tracker](progress/README.md): distinguish activity from demonstrated understanding.

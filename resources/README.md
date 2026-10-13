@@ -1,18 +1,26 @@
-# Source inventory
+# Observed course resources
 
-[sources.csv](sources.csv) is an empty inventory for safe references to observed course resources, including those not yet studied. One row describes one source; use the same `source_id` in lesson and question notes.
+[sources.csv](sources.csv) combines the six course syllabuses. Each row identifies a lesson page; it is not a downloaded lesson or an individual attachment. Use its stable `source_id` in your notes and questions to connect public learning evidence to the private source index.
 
-| Field | What to record |
-|-------|----------------|
-| `source_id` | Stable ID you assign, for example `mlf-001`. |
-| `course_slug` | Folder name under `courses/`. |
-| `module_order`, `lesson_order` | Order actually shown in the platform; leave blank if unknown. |
-| `module_title`, `lesson_title` | Actual platform names; leave blank if not yet observed. |
-| `title` | Source title without copied lesson content. |
-| `kind`, `language` | Video, slides, notebook, article, etc.; actual source language. |
-| `public_url` | Only a publicly accessible URL without tokens or private access details. |
-| `access` | Public or restricted. |
-| `reuse_permission` | Known license or permission; leave blank if unknown. |
-| `notes` | Brief reference context without restricted content or personal data. |
+| Field | Meaning |
+|-------|---------|
+| `source_id` | Stable reference based on the platform lesson ID. |
+| `course_slug` | Folder under `courses/`. |
+| `module_order`, `module_title` | Observed module position and title. |
+| `lesson_order`, `lesson_title` | Observed lesson position within its module and title. |
+| `title`, `kind`, `language` | Lesson title, normalized platform content kind, and course language. Original kind labels remain in each course syllabus. |
+| `platform_status` | Completion state observed during the inventory, separate from understanding. |
+| `resource_formats` | Formats or link types observed for that lesson; a notebook link does not prove its contents were downloaded or executed. |
+| `inspection_status` | Whether the lesson was indexed only or its resource page was inspected. |
+| `public_url`, `access`, `reuse_permission` | Access metadata. Authenticated URLs are omitted; an empty permission field grants no redistribution rights. |
+| `notes` | Brief context about the reference. |
 
-Keep private paths and restricted URLs in the separate private library index. Cite external sources used in your own work, and verify reuse rights before adding any source file to GitHub.
+The per-course `syllabus.csv` files are the editable source of this catalog. After updating them from observed platform information, run this command from the repository root:
+
+```sh
+python3 scripts/rebuild_source_index.py
+```
+
+The script uses only Python's standard library. It does not contact the academy, download files, or change platform progress. It rebuilds the combined CSV and checks required columns and unique source IDs.
+
+Keep authenticated links, full page captures, filenames containing personal information, and original course files in the [private library](../docs/private-library.md). The public catalog contains metadata; actual reading and practice belong in your lesson notes and learning evidence.

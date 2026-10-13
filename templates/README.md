@@ -4,8 +4,8 @@ Copy a template and replace its bracketed prompts with observations from your ow
 
 | Template | Destination |
 |----------|-------------|
-| [Lesson](lesson.md) | `courses/<course>/notes/<lesson>.md` |
-| [Question](question.md) | `courses/<course>/questions/<question>.md` |
+| [Lesson](lesson.md) | `courses/<course>/modules/<module>/notes/<lesson>.md` |
+| [Question](question.md) | `courses/<course>/modules/<module>/questions/<question>.md` |
 | [Session](session.md) | `sessions/YYYY-MM-DD-topic.md` |
 | [Project](project.md) | `projects/<project>/README.md` |
 | [Learning notebook](learning-notebook.ipynb) | A course exercise or project folder. |

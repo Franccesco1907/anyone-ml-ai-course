@@ -10,7 +10,7 @@ Use one lesson, one small practice task, and one observable result per session. 
 4. **Check:** compare against an allowed reference or test. Record what worked and what failed.
 5. **Close:** update the session and progress records, then choose one specific next action.
 
-Name notes `notes/lesson-slug.md` and doubts `questions/question-slug.md` inside the relevant course folder. Create `exercises/` there for your own practice code. Use source IDs from [the inventory](../resources/README.md), and link artifacts with relative paths.
+Name notes `notes/lesson-slug.md` and doubts `questions/question-slug.md` inside the relevant `courses/<course>/modules/<module>/` folder. Create `exercises/` there for your own practice code. Use source IDs from [the inventory](../resources/README.md), and link artifacts with relative paths.
 
 ## Resolve a doubt
 

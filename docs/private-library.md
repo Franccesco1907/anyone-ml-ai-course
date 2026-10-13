@@ -5,11 +5,15 @@ Store authorized course originals in a separate directory outside this repositor
 ## Connect references to notes
 
 1. Download only materials you are allowed to access and retain.
-2. Assign a stable source ID such as `mlf-001` and record safe metadata in [sources.csv](../resources/sources.csv).
+2. Use the lesson's existing source ID from [sources.csv](../resources/sources.csv), such as `ds-45289394`. For a newly observed lesson, update its course syllabus and rebuild the catalog using the [inventory instructions](../resources/README.md).
 3. Keep filenames, private paths, authenticated URLs, and access details in a private index outside this repository.
 4. In your public note, cite the source ID and a page, timestamp, or section. Write an original explanation rather than copying source text.
 
-The public source inventory starts empty. Add observed resources, including those not yet studied, with actual module and lesson names in platform order; do not infer a syllabus from course titles.
+The public source inventory contains the observed course hierarchy and stable lesson IDs. The sibling private library's `inventory/` directory holds authenticated page captures and resource links from the inspection. These captures are reference evidence, not downloaded PDFs, videos, or runnable notebooks. Match the numeric lesson ID in a public source ID to the private lesson URL when locating a resource.
+
+Open `../anyoneai-private-library/study-index.md` locally for a clickable course and lesson index. It connects all observed lessons to the same source IDs and the public learning folders. That private file is deliberately outside this repository.
+
+Keep a separate copy or backup of this private library in your own storage. GitHub backs up only the public repository. Review and update the inventory after course content changes; it is not automatically synchronized with the academy.
 
 ## Use NotebookLM as a private study aid
 
