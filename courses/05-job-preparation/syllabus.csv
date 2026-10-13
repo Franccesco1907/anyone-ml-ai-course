@@ -1,0 +1,8 @@
+module_order,module_title,lesson_order,lesson_title,content_kind,platform_status,source_id,lesson_id,resource_formats,inspection_status
+1,✨   Introduction,1,[Job Preparation Program] Online Profile and Resume Optimization,text,completed,anyoneai-42983568,42983568,text,page DOM inspected
+2,🧑🏻‍🏫 Session's content,1,AI Global Market & Resume Optimization,PDF,completed,anyoneai-65779399,65779399,PDF,page DOM inspected; embedded content not played or read
+2,🧑🏻‍🏫 Session's content,2,LinkedIn Online Profile Optimization,PDF,completed,anyoneai-65779432,65779432,PDF,page DOM inspected; embedded content not played or read
+3,Resources & Deliverables 🚀,1,How to build your Resume?,text,completed,anyoneai-42958145,42958145,text,page DOM inspected
+3,Resources & Deliverables 🚀,2,Sample resume you can use as an example to learn best practices!,PDF,completed,anyoneai-42840837,42840837,PDF,page DOM inspected; embedded content not played or read
+3,Resources & Deliverables 🚀,3,Downloadable Resume template to use to make your new Resume,download,completed,anyoneai-42840818,42840818,DOCX; download,page DOM inspected; linked files not downloaded
+3,Resources & Deliverables 🚀,4,Upload your new Resume & LinkedIn!,text,completed,anyoneai-42957946,42957946,Drive resource link; text,page DOM inspected; linked files not downloaded
