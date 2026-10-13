@@ -1,0 +1,49 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets*.json
+
+# Private course originals and downloaded material
+private-materials/
+originals/
+downloads/
+materials/
+private/
+transcripts/
+exports/
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.zip
+*.mp4
+*.mov
+*.mp3
+
+# Local data, model files, and generated artifacts
+/data/
+/datasets/
+/artifacts/
+/models/
+*.pkl
+*.joblib
+*.h5
+*.onnx
+
+# Python and notebooks
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Editors and operating system files
+.DS_Store
+.vscode/
+.idea/
